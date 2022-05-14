@@ -1,4 +1,4 @@
-baseURL = "https://localhost:1313/"
+baseURL = "https://tulis.netlify.app/"
 title = "Fazikla"
 theme = "gokarna"
 languageCode = "id"
